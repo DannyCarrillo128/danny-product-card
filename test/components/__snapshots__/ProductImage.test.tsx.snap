@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Image should show the component with the corresponding image 1`] = `
+<img
+  alt="Product"
+  className="productImg custom-class"
+  src="../test-image.jpg"
+/>
+`;
